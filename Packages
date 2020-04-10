@@ -1,0 +1,15 @@
+﻿Package: 1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Pwndrer4
+Depends: mobilesubstrate
+Filename: ./debs/1_1.0_iphoneos-arm.deb
+Size: 772
+MD5sum: 6c671f3b330c45d877e0ec73093c3d6b
+SHA1: 2dfd6dff37598124ad9ed339eba45489ed8ff968
+SHA256: 80b4ab0f752a558bd2a56281a84651ea59604f57e06ebf22268c8d1eaa5fa7fb
+Section: System
+Priority: optional
+Description: 新源地址:apt.sileo.ga,此包提示包，误装
+Author: Acreson
+Name: 新源地址:apt.sileo.ga
